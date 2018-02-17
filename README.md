@@ -1,2 +1,3 @@
 # ezralazuardy.github.io
-My own website (ezralazuardy.github.io)
+A website by Ezra Lazuardy, 
+see the docs here: https://pages.github.com
